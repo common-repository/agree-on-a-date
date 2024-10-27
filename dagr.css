@@ -1,0 +1,19 @@
+div.dagr_wrapper { overflow:hidden;}
+
+ul.dagr_timeslots {list-style-type: none; padding: 0px; margin:0px;}
+ul.dagr_timeslots ul {list-style-type: none; padding: 0px; margin:0px;}
+ul.dagr_timeslots li {padding: 0px 1px; margin:0px;}
+
+ul.dagr_timeslots > li {display:inline; float:left;}
+ul.dagr_names > li {}
+ul.dagr_slot > li {text-align:center;}
+li.dagr_yes {background-color: #ccf;}
+li.dagr_no {background-color: #fcc;}
+li.dagr_header {height: 100px;}
+li.dagr_first {height: 100px;}
+
+div.dagr_status {background-color: #ffb; margin:5px; text-align:center;}
+
+div.dagr_time_wrapper {width:60px; font-family: Arial}
+div.dagr_time_header {background-color: #c33; text-align:center; padding-top: 7px; border-radius: 10px 10px 0px 0px; color: #fff; font-size: 25px;}
+div.dagr_time_body {background-color: #fff; text-align:center; border-radius: 0px 0px 10px 10px; border:solid 1px #000;}
